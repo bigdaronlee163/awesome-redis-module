@@ -20,6 +20,7 @@ This project is developed and maintained by the [Resources team][team].
 
 | Repo | License | Last Commit Time |
 |------|--------|-----------------|
+|[chayim/redicrypt](https://github.com/chayim/redicrypt)| MIT License| 2024-07-2 16:36:31|
 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | Apache License | 2024-05-29 15:41:31 |
 | [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) | Redis Source Available License 2.0 | 2024-05-21 22:02:49 |
 | [RedisTimeSeries/RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries) | Redis Source Available License 2.0 | 2024-05-16 17:00:25 |
